@@ -1,9 +1,9 @@
-This application requires Python 2.7 installed and makes use of th Tkinter GUI library.
+This application requires Python 2.7 installed and makes use of the Tkinter GUI library.
 
-This application was written for Engineering Week 2013 (Feb 17-23, 2013) for a join event between
-	East Los Angeles COllege Computer Science and Engineering Club (CSE)
+This application was written for Engineering Week 2013 (Feb 17-23, 2013) for a joint event between
+	East Los Angeles College Computer Science and Engineering Club (CSE)
 		and the
-	East Los Angeles COllege Robotics CLub
+	East Los Angeles College Robotics CLub
 
 The Event allowed users without previous programming experience to use this GUI to easily program a Sumo-Bot to navigate through a maze by committing commands to a queue and uploaded to the robot using Parallax BASIC Stamp Editor 2.5.3
 
